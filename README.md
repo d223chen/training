@@ -48,5 +48,9 @@ Brain dump of everything I know about strength training and muscle building at t
   - As described above, you want to progressively increase either the weight you are lifting or the number of reps you do.
   - I recommend _linear progression_ as described in the StrongLifts Program: If you do 5 sets of squats, every set should be at some fixed weight for a fixed number of reps ex. 100lbs for 5 reps per set. Once you can do all 5 sets at 100lbs, you progress the weight to 105lbs the next workout. See the StrongLifts program for recommended linear progression rates per exercise.
   - If you fail some reps on say your 4th set, don't drop the weight on the 5th set. Take a rest and then continue to do the 5th set at the same weight as the previous 4 sets. Take note of the rep counts you achieved, then on your next workout start at the same weight that you were at last time. Do not progress the weight until you can hit all 5 sets at 5 reps.
+- Rest and recovery:
+  - To reiterate, don't train two days in a row if you can avoid it. It takes your body 24-72 hours to recover and grow from a workout of moderately high intensity and training so close to a previous session will interfere with that recovery.
+  - Sleep 8 hours a night. High quality sleep produces testosterone which is important for muscle growth and recovery.
+  - Minimize stress in your life as this will interfere with your recovery. After a workout, your body continuously pulls nutrients and energy to rebuilding and growing new muscle fibers. Any stress will disrupt that process.
 
 
