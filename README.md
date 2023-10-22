@@ -32,6 +32,7 @@ Brain dump of everything I know about strength training and muscle building at t
   - Try not to change the order of your exercises between sessions. So if you start with squats on your leg day, make sure to start with squats on every leg day.
 - Number of exercises and junk volume:
   - In general, more than 6 sets per workout targetting some muscle group will be wasted "junk volume" that will not contribute to more strength or muscle growth and may even increase your recovery neeeds.
+  - For example, doing bench press, machine press, push ups, and chest flys all in one day will most certainly be worse than having done only two of those exercises.
   - I recommend 1-2 compound lifts per workout and 3-5 assistance exercises.
 - Number of sets and rep range:
   - For compound lifts, try to do 5 sets of 5 reps.
