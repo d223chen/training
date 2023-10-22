@@ -10,7 +10,13 @@ Brain dump of everything I know about strength training and muscle building at t
 
 
 ## The details
-- My favorite body builder is Mike Mentzer as he took a highly scientific approach to body building and trained only 2 hours a week, a good example of working smart instead of hard and a metaphor for life. 
+- My favorite body builder is Mike Mentzer as he took a highly scientific approach to body building and trained only 2 hours a week, a good example of working smart instead of hard and a metaphor for life.
+- Good youtubers to watch:
+  - Sean Nalewanyj: Debunking exercise science myths.
+  - Jeff Nippard: Research-based in-depth videos on a variety of topics.
+  - Alan Thrall: Powerlifting form videos for deadlift, squat, bench press.
+  - Jack Hancock: NOBODY is bulking as hard as Jack.
+  - Tyler Path: Shorts for exercise form.
 - The various strength disciplines
   - Powerlifting: Developing your ability to bench press, back squat, and deadlift more weight.
   - Body Building: Increasing your muscle mass for aesthetics.
