@@ -18,7 +18,7 @@ Brain dump of everything I know about strength training and muscle building at t
   - Power Building: A combination of increasing your strength and your muscle mass.
 - The correlation between strength and muscle mass
   - In general, the stronger you become, the more muscle you will have developed. For beginners, whichever discipline you choose for strength/hypertrophy training will ultimately lead to both an increase in strength and muscle growth, though eventually these will diverge as one becomes advanced.
-- Workout programs: There are various programs available online that will dictate how often you train, what you train on each day, and how you progressively overload. I highly recommend following a program to suite your goals.
+- Workout programs: There are various programs available online that will dictate how often you train, what you train on each day, and how you progressively overload. I highly recommend following a program suited to your goals.
   - A great beginner program for increasing strength is StrongLifts: https://stronglifts.com/. I myself modified this program to be more of a "powerbuilding" program to build both muscle and strength. 
 - Workout split: Various options are available for how to divide your workouts. For example:
   - Full body workouts: Every session works your entire body.
