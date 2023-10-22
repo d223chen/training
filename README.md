@@ -17,6 +17,7 @@ Brain dump of everything I know about strength training and muscle building at t
   - Alan Thrall: Powerlifting form videos for deadlift, squat, bench press.
   - Jack Hancock: NOBODY is bulking as hard as Jack.
   - Tyler Path: Shorts for exercise form.
+  - Clarence0: If Harry Potter went to the gym instead of Hogwarts.
 - The various strength disciplines
   - Powerlifting: Developing your ability to bench press, back squat, and deadlift more weight.
   - Body Building: Increasing your muscle mass for aesthetics.
