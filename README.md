@@ -10,6 +10,7 @@ Brain dump of everything I know about strength training and muscle building at t
 
 
 ## The details
+- My favorite body builder is Mike Mentzer as he took a highly scientific approach to body building and trained only 2 hours a week, a good example of working smart instead of hard and a metaphor for life. 
 - The various strength disciplines
   - Powerlifting: Developing your ability to bench press, back squat, and deadlift more weight.
   - Body Building: Increasing your muscle mass for aesthetics.
@@ -39,4 +40,5 @@ Brain dump of everything I know about strength training and muscle building at t
   - As described above, you want to progressively increase either the weight you are lifting or the number of reps you do.
   - I recommend _linear progression_ as described in the StrongLifts Program: If you do 5 sets of squats, every set should be at some fixed weight for a fixed number of reps ex. 100lbs for 5 reps per set. Once you can do all 5 sets at 100lbs, you progress the weight to 105lbs the next workout. See the StrongLifts program for recommended linear progression rates per exercise.
   - If you fail some reps on say your 4th set, don't drop the weight on the 5th set. Take a rest and then continue to do the 5th set at the same weight as the previous 4 sets. Take note of the rep counts you achieved, then on your next workout start at the same weight that you were at last time. Do not progress the weight until you can hit all 5 sets at 5 reps.
+
 
